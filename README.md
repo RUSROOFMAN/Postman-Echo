@@ -13,3 +13,4 @@
 1. [ ] [Summary](summary/)
 
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cku5p80yyqw06fgm/branch/main?svg=true)](https://ci.appveyor.com/project/RUSROOFMAN/postman-echo/branch/main)
